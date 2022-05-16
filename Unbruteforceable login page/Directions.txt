@@ -1,0 +1,6 @@
+1. solve the pwd in the python file
+2. enter the pwd in the python programme
+3. get the token in token.txt
+4. send the token to me
+5. I will verify the token
+6. If got verified, you get 1000USD
